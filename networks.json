@@ -1,30 +1,23 @@
 {
-  "mainnet": {
+  "arbitrum-sepolia": {
     "ENSRegistry": {
-      "address": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e",
+      "address": "0x559Ab8a76956436B16918CfDfB291d768264CdEc",
       "startBlock": 9380380
     },
-    "ENSRegistryOld": {
-      "address": "0x314159265dd8dbb310642f98f50c066173c1259b",
-      "startBlock": 3327417
-    },
     "Resolver": {
+      "address": "0x7016f6BAfD4Ae35a30DD264Ce8EEcA16AB417fAD",
       "startBlock": 3327417
     },
     "BaseRegistrar": {
-      "address": "0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85",
+      "address": "0xAa86685E6f1470338F73a707eDb0Da5F61f7CA9F",
       "startBlock": 9380410
     },
-    "EthRegistrarControllerOld": {
-      "address": "0x283Af0B28c62C092C9727F1Ee09c02CA627EB7F5",
-      "startBlock": 9380471
-    },
     "EthRegistrarController": {
-      "address": "0x253553366Da8546fC250F225fe3d25d0C782303b",
+      "address": "0x89C108a78Ef261a9F9e977E566b310cB3518E714",
       "startBlock": 16925618
     },
     "NameWrapper": {
-      "address": "0xD4416b13d2b3a9aBae7AcD5D6C2BbDBE25686401",
+      "address": "0x955357E06046C91186cf4571f4dD729157bFBCfB",
       "startBlock": 16925608
     }
   },
@@ -32,10 +25,6 @@
     "ENSRegistry": {
       "address": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e",
       "startBlock": 2086611
-    },
-    "ENSRegistryOld": {
-      "address": "0x112234455c3a32fd11230c42e7bccd4a84e02010",
-      "startBlock": 43152
     },
     "Resolver": {
       "startBlock": 43152
